@@ -39,7 +39,7 @@ clear all;
 % mean vector length (MVL) measurement, while decreasing subregion size and
 % threshold resulted in decreased MVL.
 
-filename = 'CP15S219_SUBTRACTED';
+filename = 'SampleData/CP15S219_SUBTRACTED';
 S = 40;                                      % Size of the square subregion (pixels)
 Thresh = 100000;
 iImage = imread([filename '.tif'], 'tif');   % Import the image
