@@ -52,10 +52,9 @@ This function takes in the fiber orientation vector field and calculates heterog
 The script `Shell_SF_heterogeneity.m` includes blocks of code using the fiber analysis functions and visualizing results.
 
 ## Authors
-
+For function vesions:
 Thien-Khoi N. Phung
 [@tkphung](https://twitter.com/tkphung)
-
 
 ## Acknowledgments
 
